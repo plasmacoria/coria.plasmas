@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+  <title>Le Groupe Plasmas - Thèmes de recherche</title>
+  <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+  <div id="contain">
+
+    <div id="fk"></div>
+    <div id="header"><a href="index.php"><img class="header" src="img/header.png"></a></div>
+
+
+    <div id="transp"></div>
+
+
+    <div id="menu">
+      <ul id="firstmenu">
+        <li class="test"><a href="index.php" class="menu">Accueil</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="legroupe.html" class="menu">Le groupe</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li id="actif"><a href="themesrecherche.html" class="menu">Th&egrave;mes de recherche</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="collaboration.html" class="menu">Collaborations</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="publication.html" class="menu">Publications</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="rejoindre.html" class="menu">Rejoindre l'&eacute;quipe</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="contact.php" class="menu">Contact</a></li>
+      </ul>
+
+    </div>
+
+
+    <div id="main2">
+      <div style="padding:10px;">
+          <img class="ico_theme" src="img/themes/procedes.png" /><h1>Proc&eacute;d&eacute;s plasmas</h1>
+        <h2 class="titre">1. Généralités</h2><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Le moyen le plus simple pour récupérer de lénergie à partir de la biomasse est de la brûler directement. Cependant il existe des méthodes plus efficaces telles que la pyrolyse, cest-à-dire le chauffage modéré (&lt; 630°C) en absence doxygène, ou encore la gazéification, survenant pour des températures supérieures à 730°C dont le but est de récupérer des gaz valorisables tels que CO et H2, généralement en ajoutant de loxygène voire de leau.<br /><br />
+Un résumé de ces méthodes de traitement de la biomasse et de leurs produits est donné dans la figure 1.</p><br />
+        <img style="margin-left:25%;" src="img/themes/plasma1.png" alt=" fig 1 - Techniques de traitement de la biomasse et leurs produits"><br /><br />
+        <em style="font-size:10pt; font-family:verdana; color:white; margin-left:25%;">Fig. 1  Techniques de traitement de la biomasse et leurs produits</em><br /><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Bien quil sagisse de technologies très intéressantes, la pyrolyse et la gazéification traditionnelle souffrent dun inconvénient majeur à savoir la libération de produits indésirables et en particulier de goudrons provenant des vapeurs dhuile [Li-2009]. Ces goudrons saturent les filtres utilisés dans les processus aval.</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Il a été démontré que la gazéification par des plasmas thermiques était une des techniques les plus efficaces et des moins polluantes pour le traitement des déchets solides [Hrabovsky-2009]. Les hautes températures atteintes ainsi que la grande vitesse de montée en température garantisse une excellente conversion de la biomasse en gaz. Néanmoins, cette technologie présente deux travers importants : la difficulté de contrôler le processus de manière à obtenir des gaz valorisables et le coût énergétique élevé pour atteindre les fortes températures. De plus, lénergie grise du procédé est elle aussi élevée à cause de la fabrication du gaz neutre utilisé comme gaz plasmagène. Il nen demeure pas moins que la gazéification par plasmas thermiques reste une technologie prometteuse [Byun-2011]. Notre travail consiste donc à améliorer ce procédé en étudiant comment utiliser au mieux les propriétés physico-chimique du plasma.</p>
+        <br />
+        <h2 class="titre">2. La gazéification par plasma de CO2</h2><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Notre approche est différente de celle utilisée dans les gazéificateurs à plasma classiques. Dans notre expérience, la biomasse interagit avec un mélange gazeux hors déquilibre essentiellement composé de CO2 chaud. Ce mélange est issu dun plasma créé par induction électromagnétique à haute fréquence apportant lénergie nécessaire à la gazéification.</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Le chauffage électrique du gaz est le premier avantage de cette expérience. Indépendamment de la consommation électrique elle-même, le bilan économique est avantageux dans un pays où lélectricité est peu chère. Le deuxième avantage est un excellent bilan carbone et une énergie grise très faible dû à lutilisation de CO2 comme gaz plasmagène, CO2 pouvant provenir dune capture sur un site industriel connexe. Le troisième avantage dont nous comptons apporter la preuve est le rôle chimique du CO2 dans le processus de gazéification.</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">A léquilibre, pour des températures proches de 1200°C, le mélange chaud (simplement composé de CO2 à température ambiante) comporte majoritairement quatre espèces : CO2, CO, O and O2. Leurs proportions respectives sont déterminées par la température et la pression. Cependant, en dehors de léquilibre, ces proportions peuvent être très différentes ce qui nous intéressent pour notre application. En effet, le mélange contient à la fois des oxydants capables de réagir alors les hydrocarbures lourds et des réducteurs agissant sur le carbone. Cest sur ce point que se base loriginalité de notre expérience.</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Les schémas de cinétique chimique modélisant la gazéification de la biomasse restent à ce jour incomplets en raison de la complexité des processus. La phase de volatisation en particulier est mal connue alors que sa vitesse est un paramètre clef. Pour des vitesses élevées, des phénomènes déclatement peuvent survenir induisant une dimension de la taille des particules dun facteur 10 et une soudaine augmentation de la surface spécifique dinteraction. Cette vitesse dépend essentiellement de la température et de la rapidité de la montée en température. Trois comportements principaux ont été identifiés à mesure que la température augmente : la désorbtion, la dépolymérisation et la dégradation thermique [Chakravarty-1988]. Toit au long de ces trois phases, les gaz libérés réagissent avec les constituants du plasma. Les espèces oxydantes permettent lobtention dhydrocarbures légers à partir de molécules lourdes comme le benzène par exemple.
+Cependant, une trop forte concentration produirait des quantités importantes du radical OH capable de détruire lhydrogène libéré. Dautre part, CO2 est utile pour convertir les atomes de carbone pendant la phase de dégradation thermique à travers la réaction de Boudouard :</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">- CO2 + C  ->  CO + CO<br />
+        - CO2 aide aussi au reformage du méthane grâce aux réactions suivantes [Li-2004]:<br />
+        - CO2 + CH4  ->  2H2 + 2CO<br />
+        - 2CO2 + CH4  ->  H2 + 3CO + H2O<br />
+        Par ailleurs, le rôle de leau doit encore être clarifié dans ces processus du fait de son abondance dans la biomasse non-torréfiée.</p>
+        <br />
+        <h2 class="titre">3. Lexpérience</h2><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Lexpérience réalisée est une étape préliminaire destinée à étudier les processus physico-chimiques importants pour lapplication projetée à léchelle du laboratoire. Il ne sagit donc pas dun prototype dont la fabrication constituera létape ultérieure en lien direct avec les contraintes industrielles. Le but de lexpérience décrite ici est donc de démontrer la pertinence de lutilisation du CO2 dans les processus de gazéification par plasma.</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">De même que dans certaines expériences réalisées avec des gaz neutres [Tang-2005], lexpérience montrées sur la figure 2 est un plasma à couplage inductif (ICP). Le réacteur est un cylindre de silice de 60 mm de diamètre dans la zone de création du plasma et de 90 mm de diamètre dans la zone détude pour une hauteur de 700 mm. La puissance électrique est fournie par un générateur RF20 opérant à 13,56 MHz et délivrant au maximum 2 kW. Le gaz est injecté (avec un débit denviron 1 Nl/min) au sommet du réacteur au centre du solénoïde où circule le courant à haute-fréquence et les produits sont évacués à la base par une pompe sèche sous une pression de 1 à 10 mbar. En raison de labsence de contact entre le gaz et le solénoïde, le plasma est très propre ce qui garantit des analyses précises de leffet du plasma. Ce type de réacteur a déjà été utilisé au laboratoire pour létude de la cinétique chimique de plasmas de CO2 [Rond-2008].</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Les échantillons de biomasse sont placés dans un panier mobile suivant laxe vertical. Les produits résultant de linteraction entre la biomasse et le plasma sont analysés à la sortie du dispositif. Les espèces recherchés sont les gaz valorisables tels que lhydrogène (H2), le monoxyde de carbone (CO), le méthane (CH4) et léthylène (C2H2) ainsi que le CO2 lui-même afin détablir le bilan de cette espèce par rapport à la quantité injectée.</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Les techniques danalyse sont la sonde à hydrogène, la spectrométrie à transformée de Fourier, la spectroscopie infrarouge et la spectrométrie de masse. Une caractérisation complète devrait également inclure la quantification des quantités goudrons produits même si ces quantités sont attendues très faibles.</p><br />
+        <br /><br />
+        <img src="img/themes/plasma2.png" style="margin-left:25%;" alt="Fig. 2  Montage expérimental utilisé pour létude de la gazéification déchantillons de biomasse dans un plasma de CO2 radio-fréquence"><br /><br />
+        <em style="font-size:10pt; font-family:verdana; color:white; text-align:center;">Fig. 2  Montage expérimental utilisé pour létude de la gazéification déchantillons de biomasse dans un plasma de CO2 radio-fréquence</em><br /><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Le procédé de création du plasma passe par un apport dénergie aux électrons qui la redistribue aux autres particules du gaz par des collisions. Ce mode de création favorise certains modes énergétiques par rapport à dautres par exemple la vibration et lexcitation électronique par rapport à la translation et à la rotation. Ceci est caractéristique du non-équilibre du plasma. Les molécules excitées vibrationnellement ou électroniquement sont plus actives chimiquement ce qui est un avantage de ce dispositif. Cependant, lexcitation vibrationnelle favorise également la dissociation moléculaire qui doit être limitée afin de ne pas obtenir un plasma totalement oxydant. Il est possible dajuster la température du plasma en jouant sur la puissance injectée et sur la pression. La pression joue également un rôle dans la rapidité des processus physico-chimiques.</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Les effets chimiques et thermiques ne peuvent pas être dissociés sans un parfait contrôle de la température. Afin de séparer ces deux effets des essais sont également réalisés avec dautres gaz tels que largon pour lequel linteraction chimique est nulle ou lazote pour lequel linteraction chimique et faible (absorption dissociative de N2 suivi dune désorption de CN et NH).</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Dautres paramètres sont étudiés. La puissance injectée et plus particulièrement lenthalpie spécifique tout dabord qui va piloter la dissociation du CO2 et donc la composition du plasma. Rappelons que le rapport entre les concentrations de CO2 dune part et de CO, O2 et O dautre part est le pivot de létude. La pression est également une grandeur dimensionnante puisquelle fixe le temps caractéristique entre les collisions et donc la vitesse à laquelle le plasma va se recombiner. Elle est donc liée à la position de léchantillon sur laxe vertical. Nous travaillons volontairement à pression réduite pour allonger ces temps caractéristiques et les rendre compatible avec des mesures quasi-stationnaires. Des travaux à léchelle atmosphérique seront réalisés plus tard sur une installation plus puissante. La taille et la forme de léchantillon ont une influence sur lefficacité du procédé puisque quelles sont en lien avec la surface spécifique
+dinteraction [Lu-2010]. Cependant, dun point de vue expérimental et théorique, travailler avec des poudres ou une surface plate sont deux choses très différentes que ce soit pour les techniques de mesures ou pour lapproche scientifique. Nous traitons dans un premier temps les échantillons dune taille supérieure au millimètre ce qui permet de bien contrôler la dispersion en taille. Bien sûr, la nature même de léchantillon et sa composition ont une influence extrême sur les gaz produits. Des échantillons organiques très variés (charbon, graphite, biomasse torréfiée, biomasse brute) sont testés dans notre dispositif. Ce point nous invite à nous pencher sur le suivant, linfluence de leau. Il sagit déjà dune confrontation aux contraintes industrielles mais des tests basiques sont réalisés à léchelle du laboratoire.</p>
+        <br />
+        <h2 class="titre">5. Résultats</h2><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Comme pour toute activité naissante, cette rubrique est appelée à senrichir rapidement. Linteraction entre la biomasse et un plasma de CO2 produit effectivement des gaz différents de ceux mesurés avec largon ou lazote. Il reste à quantifier les volumes produits en fonction des paramètres de lexpérience. Notre but reste scientifique avant tout : comprendre quels sont les processus et les grandeurs qui sont responsables de la conversion de la biomasse en gaz valorisables lorsquelle est plongée dans un plasma de CO2.</p>
+        <br />
+        <h2 class="titre">5. References</h2><br />
+        <ul style="font-size:10pt; font-family:verdana; color:white;">
+          <li>-[Byun-2011] Byun Y. et al. Hydrogen recovery from the thermal plasma gasification of solid waste (2011) Journal of Hazardous Materials 190 (1-3), pp.  317-323.</li>
+          <li>- [Chakravarty-1988] Chakravarty T., Windig W., Hill G., Meuzelaar H., Rashid Khan M. Time-resolved pyrolysis mass spectrometry of coal: a new tool for mechanistic and kinetic studies (1988) Energy & Fuels, 2 (4), pp. 400-405.</li>
+          <li>- [Hrabovsky-2009] Hrabovsky, M., Hlina, M., Konrad, M., Kopecky, V., Kavka, T., Chumak, O., Maslani, A. Thermal plasma gasification of biomass for fuel gas production (2009) High Temperature Material Processes, 13 ( 3-4), pp. 299-313.</li>
+          <li>- [Li-2009] Li C., Suzuki K. Tar property, analysis, reforming mechanism and model for biomass gasification-An overview (2009) Renewable and Sustainable Energy Reviews, 13 (3), pp. 594-604.</li>
+          <li>- [Li-2004] Li M., Xu G., Tian Y., Chen L., Fu H. Carbon Dioxide Reforming of Methane Using DC Corona Discharge Plasma Reaction (2004) The Journal of Physical Chemistry A, 108 (10), pp. 1687-1693</li>
+          <li>- [Lu-2010] Lu H., Ip E., Scott J., Foster P., Vickers M., Baxter L.L. Effects of particle shape and size on devolatilization of biomass particle (2010) Fuel, 89, pp. 1156-1168.</li>
+          <li>- [Rond-2008] Rond C., Bultel A., Boubert P., Chéron B. Spectroscopic measurements of nonequilibrium CO2 plasma in RF torch (2008) Chemical Physics, 354, pp.16-26.</li>
+          <li>- [Tang-2005] Tang L., Huang. H. Biomass gasification using capacitively coupled RF plasma technology (2005) Fuel 84, pp. 20552063</li>
+        </ul>
+        <br />
+      </div>
+    </div>
+
+
+    <div id="visite2"><a href="video.html"><img class="play2" src="img/plasma_visite_play.png"></a></div>
+
+    <br>
+    <div id="bas">
+
+      <div id="url">
+        <br/>
+        <table class="url">
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.coria.fr/" target="blank">CORIA</a>  </td>
+          </tr>
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.cnrs.fr/" target="blank">CNRS</a> </td>
+          </tr>
+
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.insa-rouen.fr" target="blank">INSA</a> </td>
+          </tr>
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.univ-rouen.fr/" target="blank">Université Rouen</a> </td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="texte_merci">
+        <p class="texte_merci">Ce site a enti&egrave;rement &eacute;t&eacute; &eacute;labor&eacute; par des &eacute;tudiants de l'IUT de Rouen (76) en Services et R&eacute;seaux de Communication.<br />
+        L'&eacute;quipe plasma du laboratoire CORIA souhaite remercier :<br />
+        - Marie Godard pour les vid&eacute;os et photos qui alimentent le site,<br />
+        - L&eacute;na&iuml;c Moroni pour la cr&eacute;ation du site web et<br />
+        - Thomas Richard pour l'inclusion du web-docu.<br />
+        Nous remercions &eacute;galement les encadrants :<br />
+        - Gregory Chaudemanche pour avoir supervis&eacute; ce projet et<br />
+        - Olivier Gautier pour son implication lors des tournages.</p>
+      </div>
+
+
+    </div>
+    <br />
+
+
+    <div id="footer"></div>
+    <center><p class="texte_bas">MG LM TR &copy; - Tous droits r&eacute;serv&eacute;s - <a class="url_ext" href="admin.php">Administration</a></p></center>
+
+  </div>
+
+  </body>
+</html>

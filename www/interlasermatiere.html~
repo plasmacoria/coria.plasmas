@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+  <title>Le Groupe Plasmas - Thèmes de recherche</title>
+  <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+  <div id="contain">
+
+    <div id="fk"></div>
+    <div id="header"><a href="index.php"><img class="header" src="img/header.png"></a></div>
+
+
+    <div id="transp"></div>
+
+
+    <div id="menu">
+      <ul id="firstmenu">
+        <li class="test"><a href="index.php" class="menu">Accueil</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="legroupe.html" class="menu">Le groupe</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li id="actif"><a href="themesrecherche.html" class="menu">Th&egrave;mes de recherche</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="collaboration.html" class="menu">Collaborations</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="publication.html" class="menu">Publications</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="rejoindre.html" class="menu">Rejoindre l'&eacute;quipe</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="contact.php" class="menu">Contact</a></li>
+      </ul>
+
+    </div>
+
+
+    <div id="main2">
+      <div style="padding:10px;">
+        <img class="ico_theme" src="img/themes/fusion.png" /><h1>L'interaction Laser-Mati&egrave;re</h1>
+        <br />
+        <h2 class="titre">Introduction</h2>
+        <p class="texte_main">Lanalyse in situ de la composition élémentaire déchantillons présente un intérêt économique très important. A ce jour, elle reste un problème difficile encore ouvert. La seule technique ayant fait partiellement ses preuves est basée sur lanalyse spectroscopique de plasmas induits par laser sur léchantillon traité. Soumis à des impulsions laser nanosecondes, une fraction infime de léchantillon séchauffe, se liquéfie en sévaporant, puis sionise suite à ionisation multiphotonique et Bremsstrahlung inverse pendant limpulsion : les niveaux de température atteints sont suffisants pour induire lémission dun spectre dont l'analyse permet enfin de déterminer la composition élémentaire de léchantillon. </p>
+        <p class="texte_main">Lutilisation dimpulsions laser nanosecondes présente un certain nombre de désavantages :</p><br />
+        <p class="texte_main">
+          - lénergie est déposée sur léchantillon sur une épaisseur caractéristique importante, peu compatible avec une résolution spatiale forte requise pour certains matériaux,<br />
+          - la vapeur formée absorbe une partie importante de limpulsion, ce qui empêche le contrôle rigoureux du dépôt dénergie à la surface et conduit à un fort déséquilibre thermodynamique initial,<br />
+          - le passage par un bain de fusion conduit à un mélange de couches de compositions différentes réduisant la résolution spatiale,<br />
+          - ce bain de fusion est sujet à des instabilités hydrodynamiques et à des explosions de phase conduisant à une éjection très vive de microgouttelettes difficilement compatible avec une analyse spectroscopique représentative,<br />
+          - les éléments légers désorbent très vite de léchantillon en raison de lexistence du bain de fusion, ce qui conduit à une sous-estimation de leur concentration.<br />
+        </p>
+        <p class="texte_main">Ces désavantages expliquent pourquoi le recours à des banques de données spectrales préalablement élaborées à partir déchantillons de référence est quasi systématique sans pour autant garantir des seuils de détectabilité très faibles. Elles illustrent dautre part les limites de la technique.</p><br />
+
+        <h2 class="titre">Explication du thème de recherche</h2>
+        <p class="texte_main">Les travaux réalisés au laboratoire ont pour but de préciser le déséquilibre thermodynamique du plasma produit à la suite de l'interaction du matériau avec une impulsion laser nanoseconde. Ceci tient aux caractéristiques de l'évolution dans le temps de systèmes thermodynamiquement déséquilibrés. Lorsqu'un système est initialement déséquilibré, il se relaxe compte tenu de son écart instantané vis-à-vis de l'équilibre. Le plasma produit par l'impulsion laser n'est jamais aussi éloigné de l'équilibre que lors de sa formation, et la suite de son évolution en est donc particulièrement dépendante. Étudier la phase de création du plasma est donc le passage obligé vers l'interprétation donc la compréhension de son état à chaque instant. Les travaux développés au laboratoire sur ce thème dépassent donc largement le strict cadre de de la technique d'analyse élémentaire d'échantillons mentionnée précédemment : leur perspective est beaucoup plus large car ils ont pour but de contribuer à une
+meilleure compréhension de l'interaction laser-matière et de la cinétique des plasmas produits lors de cette interaction.</p>
+        <p class="texte_main">Un deuxième axe est depuis peu abordé : il concerne les apports potentiels résultant de l'utilisation d'impulsion ultra-courtes du type picoseconde ou femtoseconde. Pour pallier les difficultés induites par l'utilisation d'impulsions laser nanosecondes, lutilisation dimpulsions ultra-courtes est en effet extrêmement prometteuse. Le plasma formé suite à linteraction avec une impulsion ultra-courte nabsorbe pas limpulsion, sa durée étant largement inférieure au temps caractéristique de formation du plasma. Lénergie est en effet déposée directement sur le matériau, sur des épaisseurs caractéristiques plus faibles quen régime nanoseconde et le plasma formé est moins éloigné de léquilibre thermodynamique. Cependant, personne ne peut dire à lheure actuelle si les avantages apportés par lutilisation dimpulsions femtosecondes sont supérieurs à ceux apportés par lutilisation dimpulsions picosecondes. Les premières ne génèrent aucun bain de fusion contrairement aux secondes 
+pour
+lesquelles le bain de fusion formé est clairement plus modeste et moins perturbateur que dans le cas nanoseconde. Mais elles peuvent produire de nombreuses nanoparticules préjudiciables à un diagnostic spectroscopique optimal. Sur ces caractéristiques purement scientifiques sajoutent lencombrement moins important et les souplesses demploi plus grandes des lasers picosecondes par rapport aux sources femtosecondes qui peuvent savérer des arguments rédhibitoires dans le cas où le diagnostic serait à terme diffusé en environnement industriel. Nos recherches ont donc également pour but de clairement faire la part des choses sur les avantages apportés par l'utilisation de l'un ou l'autre de ces types d'impulsions ultra-courtes.</p>
+        <p class="texte_main">Sur les caractéristiques des plasmas produits à l'aide d'impulsions laser nanosecondes, picosecondes et femtosecondes, nous développons des travaux de recherche expérimentale et de modélisation. Le but est d'analyser les résultats expérimentaux à la lumière des enseignements tirés de ce que les calculs prédisent, d'autre part et de manière complémentaire d'orienter correctement les modèles mis au point afin d'en garantir la validation expérimentale.</p>
+        <br/><br/>
+      </div>
+
+    </div>
+
+
+    <div id="visite2"><a href="video.html"><img class="play2" src="img/plasma_visite_play.png"></a></div>
+
+    <br>
+    <div id="bas">
+
+      <div id="url">
+        <br/>
+        <table class="url">
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.coria.fr/" target="blank">CORIA</a>  </td>
+          </tr>
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.cnrs.fr/" target="blank">CNRS</a> </td>
+          </tr>
+
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.insa-rouen.fr" target="blank">INSA</a> </td>
+          </tr>
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.univ-rouen.fr/" target="blank">Université Rouen</a> </td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="texte_merci">
+        <p class="texte_merci">Ce site a enti&egrave;rement &eacute;t&eacute; &eacute;labor&eacute; par des &eacute;tudiants de l'IUT de Rouen (76) en Services et R&eacute;seaux de Communication.<br />
+        L'&eacute;quipe plasma du laboratoire CORIA souhaite remercier :<br />
+        - Marie Godard pour les vid&eacute;os et photos qui alimentent le site,<br />
+        - L&eacute;na&iuml;c Moroni pour la cr&eacute;ation du site web et<br />
+        - Thomas Richard pour l'inclusion du web-docu.<br />
+        Nous remercions &eacute;galement les encadrants :<br />
+        - Gregory Chaudemanche pour avoir supervis&eacute; ce projet et<br />
+        - Olivier Gautier pour son implication lors des tournages.</p>
+      </div>
+
+
+    </div>
+    <br />
+
+
+    <div id="footer"></div>
+    <center><p class="texte_bas">MG LM TR &copy; - Tous droits r&eacute;serv&eacute;s - <a class="url_ext" href="admin.php">Administration</a></p></center>
+
+  </div>
+
+  </body>
+</html>

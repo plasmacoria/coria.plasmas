@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+  <title>Le Groupe Plasmas - Th&eacute;mes de recherche</title>
+  <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+  <div id="contain">
+
+    <div id="fk"></div>
+    <div id="header"><a href="index.php"><img class="header" src="img/header.png"></a></div>
+
+
+    <div id="transp"></div>
+
+
+    <div id="menu">
+      <ul id="firstmenu">
+        <li class="test"><a href="index.php" class="menu">Accueil</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="legroupe.html" class="menu">Le groupe</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li id="actif"><a href="themesrecherche.html" class="menu">Th&egrave;mes de recherche</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="collaboration.html" class="menu">Collaborations</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="publication.html" class="menu">Publications</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="rejoindre.html" class="menu">Rejoindre l'&eacute;quipe</a></li>
+        <li class="separate"><img src="img/plasma_separate.png"></li>
+        <li><a href="contact.php" class="menu">Contact</a></li>
+      </ul>
+
+    </div>
+
+
+    <div id="main2">
+      <div style="padding:10px;">
+          <img class="ico_theme" src="img/themes/atmo.png" /><h1>Entr&eacute;es atmosph&eacute;riques</h1>
+        <h2 class="titre">Introduction</h2><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Dans la vie d&#8217;un projet d&#8217;exploration plan&eacute;taire qui s&#8217;&eacute;tale sur une vingtaine d&#8217;ann&eacute;es en moyenne, le temps consacr&eacute; &agrave; l&#8217;acquisition des donn&eacute;es scientifiques ne repr&eacute;sente souvent que quelques semaines ou quelques mois. Avant de pouvoir &ecirc;tre op&eacute;rationnelle sur le sol ou dans l&#8217;atmosph&egrave;re d&#8217;une autre plan&egrave;te, une sonde spatiale a d&ucirc; subir de nombreuses &eacute;preuves depuis les vibrations du lancement dans la coiffe de la fus&eacute;e jusqu&#8217;aux incertitudes li&eacute;es au site d&#8217;atterrissage en passant par l&#8217;exposition au vent solaire. Il est cependant un moment plus critique que les autres lors d&#8217;une mission de ce type. Un moment qui ne dure pourtant que quelques minutes : il s&#8217;agit de l&#8217;entr&eacute;e atmosph&eacute;rique. L&#8217;engin spatial aborde les hautes couches de l&#
+8217;
+atmosph&egrave;re plan&eacute;taire, en chute libre, avec une vitesse hypersonique.<br /><br />
+        <br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Les conditions a&eacute;rodynamiques sont telles qu&#8217;une onde de choc est cr&eacute;&eacute;e devant le nez de l&#8217;engin. La pression derri&egrave;re ce front de choc est jusqu&#8217;&agrave; mille fois la pression de l&#8217;atmosph&egrave;re environnante et la temp&eacute;rature peut atteindre plusieurs dizaines de milliers de kelvins. Dans cette ambiance, la paroi du v&eacute;hicule est soumise &agrave; des densit&eacute;s de flux de plusieurs m&eacute;gawatts par m&egrave;tre carr&eacute;. Cette paroi, en fait un bouclier de protection thermique, se doit de r&eacute;sister jusqu&#8217;&agrave; ce que, cons&eacute;quence des forces de tra&icirc;n&eacute;e, l&#8217;atmosph&egrave;re se densifiant lors de la descente, l&#8217;engin soit suffisamment ralenti. La clef de la r&eacute;ussite de la mission tient dans le bon dimensionnement du bouclier thermique. Une fois le flux incident devenu assez faible, les parachutes de descente
+peuvent &ecirc;tre ouverts en vue de l&#8217;atterrissage. Ces conditions de tr&egrave;s haute enthalpie, tout engin spatial p&eacute;n&eacute;trant une atmosph&egrave;re plan&eacute;taire les subit plus ou moins rudement en fonction de sa vitesse initiale, de sa masse et de la composition de l&#8217;atmosph&egrave;re abord&eacute;e. Les sondes Viking et Pathfinder les ont subis pour explorer Mars et son atmosph&egrave;re de dioxyde de carbone et d&#8217;azote, comme le fera Exomars dans quelques temps. La sonde atmosph&eacute;rique de Galileo a endur&eacute; les conditions les plus extr&ecirc;mes au contact de l&#8217;hydrog&egrave;ne et de l&#8217;h&eacute;lium de Jupiter avant de sombrer dans les couches denses de la plan&egrave;te. Enfin, les vaisseaux Apollo de retour de la Lune, les nombreux vaisseaux Soyouz et les navettes spatiales ont permis, malgr&eacute; les flux rencontr&eacute;s, de ramener des hommes de l&#8217;espace vers la Terre. L&#8217;&eacute;tude des mat&eacute;riaux composant le
+bouclier thermique et de la structure de celui-ci est bien &eacute;videmment fondamentale. Une d&eacute;faillance du bouclier de la navette spatiale Columbia en 2003 conduit &agrave; sa d&eacute;sint&eacute;gration. La connaissance des conditions a&eacute;rothermodynamiques r&eacute;gnant entre l&#8217;onde de choc et la paroi du v&eacute;hicule est tout aussi importante afin de pouvoir anticiper les flux incidents. Une telle connaissance permettra d&#8217;optimiser la masse du bouclier de protection thermique et autorisera ainsi &agrave; des v&eacute;hicules plus lourds et plus rapides de p&eacute;n&eacute;trer les atmosph&egrave;res plan&eacute;taires avec succ&egrave;s.</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">L&#8217;&eacute;tude du plasma en contact avec le bouclier thermique d&#8217;une sonde spatiale et son interaction avec le mat&eacute;riau constituant ce bouclier fait appel &agrave; un grand nombre de disciplines scientifiques. Citons-en quelques unes des plus &eacute;videntes : thermodynamique hors d&#8217;&eacute;quilibre et physique statistique, cin&eacute;tique chimique, physique des mat&eacute;riaux, physique des plasmas, rayonnement thermique et non thermique, m&eacute;canique des fluides compressibles. Cette multidisciplinarit&eacute; justifie la formation d&#8217;une communaut&eacute; de chercheurs travaillant ensemble sur les diff&eacute;rents aspects de cette question. L&#8217;&eacute;tude in situ de tels milieux &eacute;tant difficiles, leur reproduction exp&eacute;rimentale sur Terre et le diagnostic des &eacute;coulements recr&eacute;&eacute;s fait encore appel &agrave; de nouvelles disciplines comme l&#8217;optique et la
+physique
+des interactions laser-mati&egrave;re. La complexit&eacute; propre aux ph&eacute;nom&egrave;nes survenant dans une couche de choc et l&#8217;interaction physique entre ces ph&eacute;nom&egrave;nes am&egrave;nent le mod&eacute;lisateur &agrave; faire des choix dans sa reconstruction des processus physico-chimiques. Dans ses choix, il est confront&eacute; &agrave; des donn&eacute;es physiques mal ou non d&eacute;termin&eacute;es exp&eacute;rimentalement et il doit faire appel &agrave; la physique atomique et mol&eacute;culaire pour les calculer ab initio. Enfin, la g&eacute;om&eacute;trie des engins n&#8217;&eacute;tant &eacute;videmment pas neutre, les probl&egrave;mes pos&eacute;s sont spatialement au moins &agrave; deux dimensions et souvent &agrave; trois dimensions. La simulation num&eacute;rique doit alors imp&eacute;rativement se tourner vers les math&eacute;matiques appliqu&eacute;es pour r&eacute;soudre les &eacute;quations de l&#8217;&eacute;coulement et cartographier efficacement les gradients de la
+couche de choc.</p>
+        <br />
+        <br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">L&#8217;&eacute;tude du plasma en contact avec le bouclier thermique d&#8217;une sonde spatiale et son interaction avec le mat&eacute;riau constituant ce bouclier fait appel &agrave; un grand nombre de disciplines scientifiques. Citons-en quelques unes des plus &eacute;videntes : thermodynamique hors d&#8217;&eacute;quilibre et physique statistique, cin&eacute;tique chimique, physique des mat&eacute;riaux, physique des plasmas, rayonnement thermique et non thermique, m&eacute;canique des fluides compressibles. Cette multidisciplinarit&eacute; justifie la formation d&#8217;une communaut&eacute; de chercheurs travaillant ensemble sur les diff&eacute;rents aspects de cette question. L&#8217;&eacute;tude in situ de tels milieux &eacute;tant difficiles, leur reproduction exp&eacute;rimentale sur Terre et le diagnostic des &eacute;coulements recr&eacute;&eacute;s fait encore appel &agrave; de nouvelles disciplines comme l&#8217;optique et la
+physique
+des interactions laser-mati&egrave;re. La complexit&eacute; propre aux ph&eacute;nom&egrave;nes survenant dans une couche de choc et l&#8217;interaction physique entre ces ph&eacute;nom&egrave;nes am&egrave;nent le mod&eacute;lisateur &agrave; faire des choix dans sa reconstruction des processus physico-chimiques. Dans ses choix, il est confront&eacute; &agrave; des donn&eacute;es physiques mal ou non d&eacute;termin&eacute;es exp&eacute;rimentalement et il doit faire appel &agrave; la physique atomique et mol&eacute;culaire pour les calculer ab initio. Enfin, la g&eacute;om&eacute;trie des engins n&#8217;&eacute;tant &eacute;videmment pas neutre, les probl&egrave;mes pos&eacute;s sont spatialement au moins &agrave; deux dimensions et souvent &agrave; trois dimensions. La simulation num&eacute;rique doit alors imp&eacute;rativement se tourner vers les math&eacute;matiques appliqu&eacute;es pour r&eacute;soudre les &eacute;quations de l&#8217;&eacute;coulement et cartographier efficacement les gradients de la
+couche de choc.</p><br />
+
+        <p style="font-size:10pt; font-family:verdana; color:white;">&#8211; Au niveau exp&eacute;rimental, o&ugrave; il faut savoir accepter de ne reproduire qu&#8217;une partie des ph&eacute;nom&egrave;nes.<br />
+        &#8211; Au niveau th&eacute;orique, o&ugrave; la r&eacute;alisation de mod&egrave;les r&eacute;duits est incontournable.<br />
+        &#8211; Au niveau num&eacute;rique, o&ugrave; une classification des ph&eacute;nom&egrave;nes est n&eacute;cessaire a priori pour laisser de c&ocirc;t&eacute; les plus minoritaires.
+        </p><br/>
+        <p style="font-size:10pt; font-family:verdana; color:white;">Les probl&egrave;mes d&#8217;entr&eacute;e atmosph&eacute;rique rel&egrave;vent d&#8217;une physique des hautes temp&eacute;ratures, des fortes excitations et du non-&eacute;quilibre. La complexit&eacute; tient principalement au probl&egrave;me de d&eacute;s&eacute;quilibre thermochimique qui est d&ucirc; aux vitesses tr&egrave;s &eacute;lev&eacute;es. En effet, le temps caract&eacute;ristique de l&#8217;&eacute;coulement devient tr&egrave;s faible et comparable aux temps caract&eacute;ristiques des ph&eacute;nom&egrave;nes physico-chimiques. C&#8217;est un domaine qui emprunte peu &agrave; celui de la combustion, o&ugrave; les temp&eacute;ratures sont bien plus faibles et les d&eacute;s&eacute;quilibres thermiques quasiment inexistants, &agrave; celui des plasmas froids o&ugrave; le r&ocirc;le des &eacute;lectrons est bien plus important et &agrave; celui des plasmas de fusions o&ugrave; les esp&egrave;ces sont tr&egrave;s fortement ionis&
+eacute;s. Les plasmas nous int&eacute;ressant ici sont interm&eacute;diaires, compos&eacute;s d&#8217;un m&eacute;lange de nombreuses particules : mol&eacute;cules, radicaux, atomes, ions et &eacute;lectrons en quantit&eacute;s comparables. De m&ecirc;me, aucun ph&eacute;nom&egrave;ne majeur ne pilote le comportement du plasma dont l&#8217;&eacute;tat thermodynamique est le r&eacute;sultat de nombreux &eacute;changes &eacute;nerg&eacute;tiques et chimiques dont les temps caract&eacute;ristiques ont des ordres de grandeur comparables.</p><br />
+
+        <h2 class="titre">Travaux au laboratoire</h2><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">&#8211; la reproduction exp&eacute;rimentale des plasmas d'entr&eacute;e en interaction avec les mat&eacute;riaux de protection thermique et l'analyse fine de la couche limite d'interaction.<br />
+          &#8211; la mod&eacute;lisation de la cin&eacute;tique chimique fortement hors d'&eacute;quilibre des plasmas entre le front de choc et la paroi de l'engin par la prise en compte des ph&eacute;nom&egrave;nes collisionnels et radiatifs &eacute;tat d'&eacute;nergie par &eacute;tat d'&eacute;nergie.<br />
+        </p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Du point de vue exp&eacute;rimental, le groupe dispose d'une soufflerie IPWT1 haute enthalpie (20 MJ/kg) fonctionnant &agrave; des pressions interm&eacute;diaires (1-10 kPa). La production du plasma est assur&eacute;e de mani&egrave;re inductive par le passage d'un courant haute-fr&eacute;quence dans un sol&eacute;no&iuml;de entourant la zone de cr&eacute;ation.</p><br />
+
+        <br /><br />
+        <img src="img/themes/soufflerie.png" style="margin-left:25%;" alt="Vue générale de la soufflerie IPWT 1"><br />
+        <em style="font-size:10pt; font-style:italic; font-family:verdana; color:white; margin-left:36%; text-align:center;">Vue g&eacute;n&eacute;rale de la soufflerie IPWT 1</em><br /><br />
+        <img src="img/themes/plasma_air.png" style="margin-left:28%;" alt="plasma air">
+        <img src="img/themes/plasmaCO2.png" alt="plasma CO2"><br />
+        <em style="font-size:10pt; font-style:italic; font-family:verdana; color:white; margin-left:28%; text-align:center;">Zone de cr&eacute;ation du plasma : air (gauche) et CO2 (droite)</em><br /><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">La soufflerie fonctionne parfaitement et sans aucune pollution avec tout type de gaz et en particulier ceux composant les atmosph&egrave;res plan&eacute;taires : N2, O2, air, CO2, CO2-N2, Ar.
+Outre l'&eacute;tude du jet libre qui pr&eacute;sente un int&eacute;r&ecirc;t pour la validation des mod&egrave;les, la mise en interaction des plasmas cr&eacute;&eacute;s avec un &eacute;chantillon de mat&eacute;riau permet d'&eacute;tudier exp&eacute;rimentalement en laboratoire ce qui se passe r&eacute;ellement durant une entr&eacute;e atmosph&eacute;rique. Une attention toute particuli&egrave;re est port&eacute;e aux ph&eacute;nom&egrave;nes hors d'&eacute;quilibre thermochimique se produisant sur la paroi et dans la couche limite.
+</p><br />
+        <img src="img/themes/plasmaCO2-2.png" style="margin-left:28%;" alt="plasma CO2">
+        <img src="img/themes/plasma_objet.png" alt="plasma objet"><br />
+        <em style="font-size:10pt;font-style:italic; font-family:verdana; color:white; margin-left:13%; text-align:center;">Jet libre d'un plasma de CO2 (gauche) et interaction entre un plasma d'air et un objet en SiC (droite)</em><br /><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Pour ce faire, il est n&eacute;cessaire de caract&eacute;riser avec une bonne r&eacute;solution spatiale le plasma dans la couche limite d'interaction. Les techniques de diagnostics optiques sont privil&eacute;gi&eacute;es telles que la spectroscopie optique d'&eacute;mission, la fluorescence induite par laser et la diffusion Raman spontan&eacute;e. Elles permettent d'acc&eacute;der aux concentrations des esp&egrave;ces chimiques du plasma sur leurs diff&eacute;rents &eacute;tats d'&eacute;nergie et aux temp&eacute;ratures du plasma, c'est-&agrave;-dire &agrave; la r&eacute;partition de l'&eacute;nergie dans les diff&eacute;rents &eacute;tats. Des techniques intrusives de sondages permettent par ailleurs d'obtenir des informations plus globales sur le plasma.</p><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">L'ensemble de ces mesures doivent permettre de valider l'approche th&eacute;orique qui est faite par ailleurs. Les mod&egrave;les mis au point au laboratoire incluent des param&egrave;tres et des esp&egrave;ces inaccessibles &agrave; la mesure ; il s'agit donc d'une d&eacute;marche exhaustive visant &agrave; d&eacute;crire finement chaque processus. Pour des applications sur des situations complexes (calculs a&eacute;rodynamiques et transferts radiatifs multidimensionnels), ces mod&egrave;les peuvent cependant &ecirc;tre simplifi&eacute;s pour ne garder des les ph&eacute;nom&egrave;nes significatifs et ainsi r&eacute;duire les temps de calcul.</p><br /><br />
+        <img src="img/themes/dynamique_etats.png" style="margin-left:25%;" alt="schéma sur la dynamique des états d'énergie des éspèces dun plasma"><br />
+        <div style="margin-top:-300px;margin-right:100px;float:right;width:150px;height:150px;"><em style="font-size:10pt; font-style:italic; font-family:verdana; color:white; text-align:center;">Dynamique des &eacute;tats d'&eacute;nergie des esp&egrave;ces d'un plasma d'air &agrave; la sortie d'une torche. La temp&eacute;rature d'&eacute;quilibre et de 6000 K. Les symboles repr&eacute;sentent des r&eacute;sultats d'exp&eacute;riences men&eacute;es au laboratoire LAPLACE.</em></div>
+        <br /><br />
+        <p style="font-size:10pt; font-family:verdana; color:white;">Pour r&eacute;aliser ces mod&egrave;les (existant actuellement pour l'argon, l'air et l'atmosph&egrave;re martienne) des donn&eacute;es fondamentales concernant les atomes et mol&eacute;cules et leurs diff&eacute;rents &eacute;tats d'&eacute;nergie sont n&eacute;cessaires. Par exemple, les sections efficaces d'interaction entre particules (en fonction du type d'interaction) sont recalcul&eacute;es th&eacute;oriquement au laboratoire ou obtenues suite &agrave; des coop&eacute;rations avec d'autres &eacute;quipes.</p>
+        <br />
+
+      </div>
+    </div>
+
+
+    <div id="visite2"><a href="video.html"><img class="play2" src="img/plasma_visite_play.png"></a></div>
+
+    <br>
+    <div id="bas">
+
+      <div id="url">
+        <br/>
+        <table class="url">
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.coria.fr/" target="blank">CORIA</a>  </td>
+          </tr>
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.cnrs.fr/" target="blank">CNRS</a> </td>
+          </tr>
+
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.insa-rouen.fr" target="blank">INSA</a> </td>
+          </tr>
+          <tr>
+            <td> <img src="img/plasma_puces.png"> </td>
+            <td> <a class="url" href="http://www.univ-rouen.fr/" target="blank">Université Rouen</a> </td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="texte_merci">
+        <p class="texte_merci">Ce site a enti&egrave;rement &eacute;t&eacute; &eacute;labor&eacute; par des &eacute;tudiants de l'IUT de Rouen (76) en Services et R&eacute;seaux de Communication.<br />
+        L'&eacute;quipe plasma du laboratoire CORIA souhaite remercier :<br />
+        - Marie Godard pour les vid&eacute;os et photos qui alimentent le site,<br />
+        - L&eacute;na&iuml;c Moroni pour la cr&eacute;ation du site web et<br />
+        - Thomas Richard pour l'inclusion du web-docu.<br />
+        Nous remercions &eacute;galement les encadrants :<br />
+        - Gregory Chaudemanche pour avoir supervis&eacute; ce projet et<br />
+        - Olivier Gautier pour son implication lors des tournages.</p>
+      </div>
+
+
+    </div>
+    <br />
+
+
+    <div id="footer"></div>
+    <center><p class="texte_bas">MG LM TR &copy; - Tous droits r&eacute;serv&eacute;s - <a class="url_ext" href="admin.php">Administration</a></p></center>
+
+  </div>
+
+  </body>
+</html>
